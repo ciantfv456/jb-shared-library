@@ -1,12 +1,12 @@
-(root)
-+- src                     # Groovy source files
-|   +- org
-|       +- foo
-|           +- Bar.groovy  # for org.foo.Bar class
-+- vars
-|   +- foo.groovy          # for global 'foo' variable
-|   +- foo.txt             # help for 'foo' variable
-+- resources               # resource files (external libraries only)
-|   +- org
-|       +- foo
-|           +- bar.json    # static helper data for org.foo.Bar
+(root)<br/>
++- src                     # Groovy source files<br/>
+|   +- org<br/>
+|       +- foo<br/>
+|           +- Bar.groovy  # for org.foo.Bar class<br/>
++- vars<br/>
+|   +- foo.groovy          # for global 'foo' variable<br/>
+|   +- foo.txt             # help for 'foo' variable<br/>
++- resources               # resource files (external libraries only)<br/>
+|   +- org<br/>
+|       +- foo<br/>
+|           +- bar.json    # static helper data for org.foo.Bar<br/>
